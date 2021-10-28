@@ -1,0 +1,71 @@
+body{
+    background-color: rosybrown;
+}
+
+h1{
+    background-color: rosybrown;
+    color: #ffffff;
+    font-family: Consolas;
+}
+
+.center{
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+    width:25%;
+    border: 3px solid #3a3c4a;
+}
+
+a{
+    background-color: #b4667c ;
+    box-shadow: 0 5px 0 #58242c;
+    color:#ffffff;
+    padding: 1em 1.2em;
+    position: relative;
+    text-decoration: none;
+    font-family: 'Trebuchet MS'
+    /* text-transform: uppercase; */
+}
+
+a:hover{
+    background-color: #d35075;
+    cursor: pointer;
+}
+
+a:active{
+    /* background-color: black; */
+    box-shadow: none;
+    top:5px;
+}
+
+/* a:visited {
+    background-color: #ccc;
+} */
+
+/* 
+Is it good practice to put all styles in one whole file???
+
+*/
+
+/* Horizontal Navbar Styles */
+ul{ 
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    /* background-color: #ddd; */
+}
+li{
+    float:left;
+    /* display:inline; */
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+

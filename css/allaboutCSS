@@ -1,0 +1,40 @@
+ToDo
+Look into Folder Structure for Web Development 
+https://medium.com/@nmayurashok/file-and-folder-structure-for-web-development-8c5c83810a5
+https://www.codecademy.com/articles/f1-u2-create-first-prj
+ 
+
+
+27-10-21
+CSS Rules
+
+CSS consist of 3 elements:
+1.Selector
+2.Property
+3.Value
+
+E.g
+body {
+    color: pink: 
+}
+
+Selector -> body
+Property -> color
+Value -> pink
+
+
+Selector 
+Definition: determines which HTML element to apply the CSS
+Types:
+Type Selector: refers to elements with a specific HTML
+Class Selector: refers to elements of a particular Class and begin with .
+ID Selector: refers to elemets with an attribute ID and begin with #
+
+
+Property
+Various kinds but color, background-color and font are the famous ones
+
+
+Value
+Are hex or rgb values as well as font sizes
+

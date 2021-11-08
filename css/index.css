@@ -46,26 +46,46 @@ a:active{
 Is it good practice to put all styles in one whole file???
 
 */
+.deffont{
+    color:#e8d7c9; 
+    font-family: 'Trebuchet MS'; 
+    font-size: 14pt;
+}
 
 /* Horizontal Navbar Styles */
-ul{ 
+.horizontalul{ 
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color:  #b4667c;
     /* background-color: #ddd; */
 }
-li{
+.horizontalli{
+    /* display: inline; */
     float:left;
-    /* display:inline; */
 }
-li a {
+.horizontala{
     display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+}
+
+/* Vertical Navbar Styles */
+.verticalnavul{
+    padding: 0;
+    width: 200px;
+    background-color:#b4667c;
   }
 
+  .verticalnavli{
+    display: block;
+    color: #000;
+    text-decoration: none;
+  }
 
+  .verticalnava{
+    display: block;
+  }

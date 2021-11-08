@@ -1,0 +1,39 @@
+Date: 08/11/21
+Topic: HTML Introduction
+
+HTML 
+stands for Hypertext Markup Language
+refers to structure (It tells you what components it is made up of) of a website
+
+Hypertext means text which contains links to other texts
+Markup means to mark something up
+Language means that it has its own syntax
+
+HTML Document Parts
+<!DOCTYPE html>  It tells the browser about the type of the document
+<html> root element of an HTML page
+<head> contains meta information about the HTML page
+<title> contains the title of the html page
+<body> defines the body of the html page
+<h1> header of the html page
+<p> paragraph of the html page
+
+
+>html>home
+
+---Basics---
+Headings
+- <h1> to <h6>
+- eg. <h1>About Vanessa</h1>
+
+Paragraphs
+<p style="color:#e8d7c9; font-family: 'Trebuchet MS'; font-size: 14pt;">Hello, I'm Vanessa! Welcome to my first web portfolio!</p>
+
+Links
+<a href="image-gallery.html">Gallery</a>
+
+Images
+<img src="/img/vanessaprofile.png" alt="Picture of Vanessa" class="center">
+
+
+

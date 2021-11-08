@@ -1,0 +1,38 @@
+---Attribute---
+An element can have attributes
+
+Attribute
+- characteristic of element
+- provide info about element
+- specified in start tag
+- follows name/value pairs e.g name="value"
+<tagname attributename="attributevalue">
+    Content
+</tagname>
+- always quote atrribute value
+
+Examples
+
+lang in html
+<html lang="en-US">
+
+style in p
+<p style="color:#e8d7c9; font-family: 'Trebuchet MS'; font-size: 14pt;">Hello, I'm Vanessa! Welcome to my first web portfolio!</p>
+
+src in img
+alt in img
+class in img
+width and height in img
+<img src="/img/vanessaprofile.png" alt="Picture of Vanessa" class="center">
+
+
+href in a
+<a href="image-gallery.html">Gallery</a>
+href is the attribute of element, a
+
+2 Ways to specify URL with the href attribute:
+Relative URL - relative to the current HTML or root of the website
+<a href="image-gallery.html">Gallery</a>
+
+Absolute URL - located on another website 
+<a href="https://www.linkedin.com/in/vanessa-ho-6838b5211/">LinkedIn</a>

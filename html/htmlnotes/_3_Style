@@ -1,0 +1,24 @@
+Style
+
+style 
+- for styling HTML element
+- format: <tagname style="cssproperty:cssvalue;"></tagname>
+
+css properties include:
+background-color for background color
+color for text colors
+font-family for text fonts
+font-size for text sizes
+text-align for text alignment
+
+style in p
+<p style="color:#e8d7c9; font-family: 'Trebuchet MS'; font-size: 14pt;">Hello, I'm Vanessa! Welcome to my first web portfolio!</p>
+
+CSS
+Cascading Style Sheets used to beautify the website
+
+Added to HTML Doc in 3 ways:
+Inline
+Internal 
+External
+

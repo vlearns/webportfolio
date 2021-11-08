@@ -1,0 +1,14 @@
+Paragraph
+
+Paragraph
+-<p></p>
+-starts on a new line as a block of text
+
+Horizontal Rule
+<hr>
+
+Line Break
+<br>
+
+Preformatted text
+<pre>
